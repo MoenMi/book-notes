@@ -7,5 +7,5 @@ parts:
     - file: books/basic-economics/introduction
       sections:
       - file: books/basic-economics/chapter-1
-      - caption: PART I - PRICES AND MARKETS
+      # - caption: PART I - PRICES AND MARKETS
       - file: books/basic-economics/chapter-2
