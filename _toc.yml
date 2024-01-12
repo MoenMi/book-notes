@@ -2,10 +2,9 @@
 format: jb-book
 root: introduction
 parts:
-  - caption: ECONOMICS
-    chapters:
-    - file: books/basic-economics/introduction
-      sections:
-      - file: books/basic-economics/chapter-1
-      # - caption: PART I - PRICES AND MARKETS
-      - file: books/basic-economics/chapter-2
+- caption: ECONOMICS
+  chapters:
+  - file: books/basic-economics/introduction
+    sections:
+    - file: books/basic-economics/chapter-1
+    - file: books/basic-economics/chapter-2
