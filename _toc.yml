@@ -1,0 +1,9 @@
+# Table of contents
+format: jb-book
+root: introduction
+parts:
+  - caption: ECONOMICS
+    chapters:
+    - file: books/basic-economics/introduction
+      sections:
+      - file: books/basic-economics/chapter-1
