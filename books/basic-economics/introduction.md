@@ -1,7 +1,7 @@
 # Basic Economics
 
 ```{image} images/cover.JPG
-:width: 500px
+:width: 300px
 :align: center
 ```
 
