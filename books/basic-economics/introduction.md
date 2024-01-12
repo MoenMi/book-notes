@@ -19,4 +19,4 @@ The primary objective of *Basic Economics* is to provide readers with no previou
 
 ## Edition
 
-This is based on the fifth edition of *Basic Economics*.
+This section is based on the fifth edition of *Basic Economics*.
