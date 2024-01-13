@@ -8,3 +8,8 @@ parts:
     sections:
     - file: books/basic-economics/chapter-1
     - file: books/basic-economics/chapter-2
+- caption: GREEKS
+  chapters:
+  - file: books/odyssey/introduction
+    sections:
+    - file: books/odyssey/chapter-1
