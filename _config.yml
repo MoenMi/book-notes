@@ -19,8 +19,8 @@ repository:
 
 sphinx:
   config:
-    redirrafe_branch: 'master'
-    redirrafe_redirects:
+    rediraffe_branch: 'master'
+    rediraffe_redirects:
       books/odyssey/intro.md: books/odyssey/introduction.md
 
 extra_extensions:
