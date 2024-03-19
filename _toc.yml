@@ -4,12 +4,12 @@ root: introduction
 parts:
 - caption: ECONOMICS
   chapters:
-  - file: books/basic-economics/introduction
+  - file: books/basic-economics/introduction.md
     sections:
-    - file: books/basic-economics/chapter-1
-    - file: books/basic-economics/chapter-2
+    - file: books/basic-economics/chapter-1.md
+    - file: books/basic-economics/chapter-2.md
 - caption: GREEKS
   chapters:
-  - file: books/odyssey/introduction
+  - file: books/odyssey/introduction.md
     sections:
-    - file: books/odyssey/chapter-1
+    - file: books/odyssey/chapter-1.md
