@@ -21,7 +21,7 @@ sphinx:
   config:
     rediraffe_branch: 'master'
     rediraffe_redirects:
-      books/odyssey/intro.md: books/odyssey/introduction.md
+      books/odyssey/intro: books/odyssey/introduction
 
 extra_extensions:
   - sphinxext.rediraffe
